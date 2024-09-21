@@ -24,4 +24,4 @@ Pour basculer entre ces deux stratégies de routage, vous devez aller dans le fi
 
 
 ## Auteurs
-Un projet réalisé par De Vlegelaer Edwin (```q210054```) et Mahy François (```q210208```)
+Un projet réalisé par Varmix (```q210054```) et Zkyz (```q210208```)
